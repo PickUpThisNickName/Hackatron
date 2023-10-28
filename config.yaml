@@ -1,0 +1,11 @@
+
+path: /home/john/VR_IT/Source/pythonProject/yolo/data
+train: images/train
+val: images/valid
+
+
+names:
+  0: wood
+  1: glas
+  2: plastic
+  3: metal
